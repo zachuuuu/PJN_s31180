@@ -1,3 +1,6 @@
 .venv
 *.gz
 *.txt
+
+lab06/lora/
+lab06/fine_tuning/
